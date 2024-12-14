@@ -1,0 +1,10 @@
+[ 2024-12-15 00:08:49,916 ] root - INFO - API Key successfully loaded.
+[ 2024-12-15 00:11:38,162 ] root - INFO - data loading started...
+[ 2024-12-15 00:11:38,617 ] root - INFO - data loading completed...
+[ 2024-12-15 00:11:40,264 ] root - INFO - Gemini model loaded successfully.
+[ 2024-12-15 00:11:40,264 ] root - INFO - 
+[ 2024-12-15 00:11:40,483 ] root - INFO - 
+[ 2024-12-15 00:11:43,502 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+[ 2024-12-15 00:11:47,559 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+[ 2024-12-15 00:11:52,740 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+[ 2024-12-15 00:11:52,741 ] google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.

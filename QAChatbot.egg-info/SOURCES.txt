@@ -1,0 +1,10 @@
+README.md
+setup.py
+QAChatbot.egg-info/PKG-INFO
+QAChatbot.egg-info/SOURCES.txt
+QAChatbot.egg-info/dependency_links.txt
+QAChatbot.egg-info/top_level.txt
+QAWithPDF/__init__.py
+QAWithPDF/data_ingestion.py
+QAWithPDF/embeddings.py
+QAWithPDF/model_api.py

@@ -1,0 +1,15 @@
+[ 2024-12-15 00:04:44,150 ] root - ERROR - API Key not loaded. Check the .env file for correctness.
+[ 2024-12-15 00:05:56,618 ] root - INFO - data loading started...
+[ 2024-12-15 00:05:57,202 ] root - INFO - data loading completed...
+[ 2024-12-15 00:06:00,209 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+[ 2024-12-15 00:06:04,210 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+[ 2024-12-15 00:06:09,059 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+[ 2024-12-15 00:06:09,060 ] google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+[ 2024-12-15 00:06:09,061 ] root - ERROR - Error loading Gemini model: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+[ 2024-12-15 00:08:10,567 ] root - INFO - data loading started...
+[ 2024-12-15 00:08:10,572 ] root - INFO - data loading completed...
+[ 2024-12-15 00:08:13,576 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+[ 2024-12-15 00:08:17,515 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+[ 2024-12-15 00:08:22,446 ] google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+[ 2024-12-15 00:08:22,446 ] google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+[ 2024-12-15 00:08:22,446 ] root - ERROR - Error loading Gemini model: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
