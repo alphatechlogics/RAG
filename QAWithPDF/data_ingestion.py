@@ -1,7 +1,10 @@
 from llama_index.core import SimpleDirectoryReader
+# from llama_index import SimpleDirectoryReader
+
 import sys
 from exception import CustomException
 from logger import logging
+
 
 def load_data(data):
     """
@@ -12,17 +15,14 @@ def load_data(data):
 
     Returns: 
     - A list of loaded documents. The specific type of documents may vary.
-    
+
     """
-    try: 
+    try:
         logging.info("data loading started...")
-        loader=SimpleDirectoryReader("Data")
-        documents=loader.load_data()
+        loader = SimpleDirectoryReader("Data")
+        documents = loader.load_data()
         logging.info("data loading completed...")
         return documents
     except Exception as e:
         logging.info("exception is loading data...")
-        return CustomException(e,sys)
-    
-
-    
+        return CustomException(e, sys)
