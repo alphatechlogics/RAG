@@ -4,6 +4,8 @@ Welcome to our **End-to-End QA GenAI Workflow**, where **state-of-the-art techno
 
 With this setup, you can **upload**, **interact**, and **retrieve** insightful answers from your documents in a completely new way! 🎉
 
+![](https://raw.github.com/alphatechlogics/RAG/86f0c29b155ce740a97d156b5726fd5035903f2f/image.png)
+
 ---
 
 ## ✨ Key Features ✨
